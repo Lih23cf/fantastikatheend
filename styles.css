@@ -1,0 +1,176 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+header{
+    background-color: black;
+    height: 15vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header div{
+    display: flex;
+    align-items: center;
+    width: 15%;
+    margin-left: 2rem;
+
+
+}
+
+header div img{
+    height: 7vh;
+}
+
+
+h1{
+    color: beige;
+    margin-left: 1rem;
+    font-size: 2rem;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+header nav{
+    
+    width: 13%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 2rem;
+}
+
+
+div{
+    display: flex;
+    align-items: center;
+    border: solid ;
+    width: 20%;
+}
+
+
+
+img{
+    width: 35px;
+    
+    
+
+}
+
+main{
+    background-image: url(dog-rosa.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-left: 4rem;
+    height: 120vh;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    background-size: 100% 120vh;
+}
+ #banho{
+    height: 120vh;
+    background-image: url(dog-branco.png);
+    background-repeat: no-repeat;
+    background-size: 100% 120vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left: 5rem;
+
+ }
+
+ h3{
+    color: #3a342f;
+    font-size: 4rem;
+ }
+
+ p{
+    color: #3a342f;
+    font-size: 2.3rem;
+    width: 40%;
+    margin: 2rem 0 2rem 1;
+ }
+
+ button{
+    width: 15vw;
+    height: 7vh;
+    color: azure;
+    background-color: #3a342f;
+    font-size: 1rem;
+    border-radius: 40px;
+ }
+
+ #mordomia{
+    height: 120vh;
+    background-image: url(dog-pretinho.png);
+    background-repeat: no-repeat;
+    background-size: 100% 120vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left: 5rem;
+ }
+
+ #mordomia p{
+    padding: 20px;
+    
+ }
+
+ h2{
+    color: azure;
+    font-size: 2rem;
+ }
+
+ #apoio{
+    background-color:white;
+ }
+
+ #patinhas img{
+    width: 150px;
+ }
+
+ #apoio h5{
+    padding: 30px;
+    color: hotpink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+
+ #apoio h4{
+    color: hotpink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    margin-left: 70px;
+    padding: 20px;
+    width: 90%;
+    height: 30%;
+    
+ }
+
+ footer{
+    background-color:deeppink;
+    color: beige;
+ }
+
+ #final h4{
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 1.5rem;
+   padding: 10px;
+ }
+
+ #final li{
+    padding: 5px;
+ }
+
+ 
+
+
+
+
+
+
+
+    
+   
